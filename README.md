@@ -1,6 +1,6 @@
 # PROYECTO FINAL - CODER HOUSE
 Este proyecto es desarrollado en Python utilizando el framework Django. 
-El proyecto trata de una app web sobre una Veterinaria, la cual renderiza la informacion que esta almacenadas en la base de datos y la muesta en las diferentes vistas dependiendo cual sea la solicitud.
+El proyecto trata de una app web sobre una Academia de ciencias basicas, la cual renderiza la informacion que esta almacenadas en la base de datos y la muesta en las diferentes vistas dependiendo cual sea la solicitud.
 Debajo se encuentra el link para ver la app en funcionamiento 
 
 # Video Demostración.
