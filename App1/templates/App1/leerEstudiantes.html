@@ -1,0 +1,18 @@
+
+{% extends "App1/padre.html" %}
+
+{% load static %}
+
+{% block contenidoQueCambia %}
+
+    {% for e in estudiantes %}
+        <li>{{e}}</li>  
+        <button>
+            <a href="{% url 'EliminarEstudiante' e.nombre %}"> Eliminar</a>
+            <a href="{% url 'EditarEstudiante' e.nombre %}">Editar</a>
+        </button>
+    {% endfor %}
+    <br>
+    <a href="estudiantes">Agregar otro Estudiante</a>
+
+{% endblock %}
