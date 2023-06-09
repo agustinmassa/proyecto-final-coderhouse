@@ -1,7 +1,6 @@
 # PROYECTO FINAL - CODER HOUSE
 Este proyecto es desarrollado en Python utilizando el framework Django. 
 El proyecto trata de una app web sobre una Academia de ciencias basicas, en la cual se pueden ver los cursos que se dan, los profesores que hay con su respectiva profecion y los estudiantes, donde por su puesto se pueden registrar y ser un estudiante mas de esta institucion.
-Debajo se encuentra el link para ver la app en funcionamiento 
 
 # Video Demostración.
 
